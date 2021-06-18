@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Languages-English%20-brightgreen" />
 </p>
 <hr>
-<p align="center">
+<p align="center">&nbsp &nbsp
 <img  align="center" src="https://idemoed.vercel.app/api/wall?username=ju3tin&limit=20&level=1&pr=10&size=100&type=svg"/></p>
 <!--![My Wall](https://idemoed.vercel.app/api/wall?username=ju3tin)
 ![Demo](https://idemoed.vercel.app/api/wall?username=ju3tin&limit=100&level=1&pr=5&size=100&type=svg)-->
