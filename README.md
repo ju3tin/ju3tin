@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Languages-English%20-brightgreen" />
 </p>
 <hr>
-<img src="https://idemoed.vercel.app/api/wall?username=ju3tin&limit=10&level=1&pr=1&size=100&type=svg"/>
+<img src="https://idemoed.vercel.app/api/wall?username=ju3tin&limit=10&level=1&pr=10&size=100&type=svg"/>
 <!--![My Wall](https://idemoed.vercel.app/api/wall?username=ju3tin)
 ![Demo](https://idemoed.vercel.app/api/wall?username=ju3tin&limit=100&level=1&pr=5&size=100&type=svg)-->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Justin Grierson </h1>
