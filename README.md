@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Languages-English%20-brightgreen" />
 </p>
 <hr>
-<img src="https://idemoed.vercel.app/api/wall?username=ju3tin"/>
+<img src="https://idemoed.vercel.app/api/wall?username=ju3tin&limit=100&level=1&events=<EVENTS>&pr=5&size=<SIZE>&type=<TYPE>&placeholder=<PLACEHOLDER>"/>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Justin Grierson </h1>
 <h3 align="center">Machine Learning Engineer | Data Scientist </h3>
