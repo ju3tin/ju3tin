@@ -14,8 +14,8 @@
 </p>
 <hr>
 <img src="https://idemoed.vercel.app/api/wall?username=ju3tin&limit=100&level=1&pr=5&size=100&type=svg"/>
-![My Wall](https://idemoed.vercel.app/api/wall?username=ju3tin)
-![Demo](https://idemoed.vercel.app/api/wall?username=ju3tin&limit=100&level=1&pr=5&size=100&type=svg)
+<!--![My Wall](https://idemoed.vercel.app/api/wall?username=ju3tin)
+![Demo](https://idemoed.vercel.app/api/wall?username=ju3tin&limit=100&level=1&pr=5&size=100&type=svg)-->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Justin Grierson </h1>
 <h3 align="center">Old Skool Hacker | Full Stack Developer </h3>
 <p align="center">
