@@ -14,7 +14,7 @@
 </p>
 <hr>
 <p align="center">
-<img src="https://idemoed.vercel.app/api/wall?username=ju3tin&limit=10&level=1&pr=10&size=100&type=svg"/></p>
+<img src="https://idemoed.vercel.app/api/wall?username=ju3tin&limit=8&level=1&pr=10&size=100&type=svg"/></p>
 <!--![My Wall](https://idemoed.vercel.app/api/wall?username=ju3tin)
 ![Demo](https://idemoed.vercel.app/api/wall?username=ju3tin&limit=100&level=1&pr=5&size=100&type=svg)-->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Justin Grierson </h1>
