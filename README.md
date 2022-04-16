@@ -7,7 +7,7 @@
 <img src="https://komarev.com/ghpvc/?username=ju3tin&color=blue" alt="watching_count" />
  </p>
  <p align="center">
-<img src="https://img.shields.io/badge/Age-42-blue" />
+<img src="https://img.shields.io/badge/Age-43-blue" />
   <img src="https://img.shields.io/badge/Focus-Machine%20Learning-blue" />
   <img src="https://img.shields.io/badge/Lives-London-blue" />
   <img src="https://img.shields.io/badge/Languages-English%20-blue" />
