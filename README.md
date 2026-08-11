@@ -7,7 +7,6 @@
 <img src="https://komarev.com/ghpvc/?username=ju3tin&color=blue" alt="watching_count" />
  </p>
  <p align="center">
-![Years of Coding](![Years of Coding](https://img.shields.io/badge/years%20of%20coding-X%20years-blue))
 <img src="https://img.shields.io/badge/years%20of%20coding-X%20years-blue" /> 
 <img
   src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ju3tin/ju3tin/main/coding-years.json"
