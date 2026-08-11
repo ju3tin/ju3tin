@@ -9,7 +9,7 @@
  <p align="center">
 <img src="https://img.shields.io/badge/years%20of%20coding-X%20years-blue" /> 
 <img
-  src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/ju3tin/ju3tin/main/coding-years.json"
+  src="https://img.shields.io/endpoint?url=https://ju3tin.github.io/coding-years.json"
   alt="Years of Coding"
 />
 <img src="https://img.shields.io/badge/Age-43-blue" />
