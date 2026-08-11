@@ -11,7 +11,10 @@
   src="https://img.shields.io/endpoint?url=https://ju3tin.github.io/coding-years.json"
   alt="Years of Coding"
 />
-<img src="https://img.shields.io/badge/Age-43-blue" />
+<img
+  src="https://img.shields.io/endpoint?url=https%3A%2F%2Fju3tin.github.io%2Fage.json"
+  alt="Age"
+/>
   <img src="https://img.shields.io/badge/Focus-Machine%20Learning-blue" />
   <img src="https://img.shields.io/badge/Lives-London-blue" />
   <img src="https://img.shields.io/badge/Languages-English%20-blue" />
