@@ -12,7 +12,7 @@
   alt="Years of Coding"
 />
 <img
-  src="https://img.shields.io/endpoint?url=https%3A%2F%2Fju3tin.github.io%2Fage.json"
+  src="https://img.shields.io/endpoint?url=https%3A%2F%2Fju3tin.github.io/age.json"
   alt="Age"
 />
   <img src="https://img.shields.io/badge/Focus-Machine%20Learning-blue" />
